@@ -1,0 +1,7 @@
+C:\Repos\BicyclesStores\BicyclesStores\bin\Debug\BicyclesStores.exe.config
+C:\Repos\BicyclesStores\BicyclesStores\bin\Debug\BicyclesStores.exe
+C:\Repos\BicyclesStores\BicyclesStores\bin\Debug\BicyclesStores.pdb
+C:\Repos\BicyclesStores\BicyclesStores\obj\Debug\BicyclesStores.csprojResolveAssemblyReference.cache
+C:\Repos\BicyclesStores\BicyclesStores\obj\Debug\BicyclesStores.csproj.CoreCompileInputs.cache
+C:\Repos\BicyclesStores\BicyclesStores\obj\Debug\BicyclesStores.exe
+C:\Repos\BicyclesStores\BicyclesStores\obj\Debug\BicyclesStores.pdb
